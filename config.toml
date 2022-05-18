@@ -1,0 +1,76 @@
+baseURL = 'https://unmad.help'
+languageCode = 'en-us'
+title = 'Chaitanya.Rocks'
+theme = 'chaitanyarocks'
+disqusShortname = 'bluedove-1'
+rssLimit = 20
+copyright = "2022 BlueDove All rights reserved"
+[params]
+    description = "BlueDove makes you aware, grow and achive more! BlueDove is a website which helps mentors, teachers, parents, and anyone who want to help their loved one gow with right pace and time."
+    author = "Chaitanya Chaturvedi"
+	email = "chaitanya4vedi@gmail.com"
+    authorImage = "/images/Chaitanya_Chaturvedi_Cropped.jpg"
+
+paginate = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog"
+
+[[menu.main]]
+    name = "Categories"
+    url = "/categories"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact"
+
+[[menu.social]]
+    name = "Facebook"
+    url = "https:/facebook.com/"
+    pre = "<i class='fab fa-facebook'></i>"
+
+[[menu.social]]
+    name = "Twitter"
+    url = "https://twitter.com/"
+    pre = "<i class='fab fa-twitter'></i>"
+
+[[menu.social]]
+    name = "Instagram"
+    url = "https://instagram.com/"
+    pre = "<i class='fab fa-instagram'></i>"
+
+[related]
+    threshold = 0 
+    includeNewer = true
+    toLower = false
+
+    [[related.indices]]
+        name = "categories"
+        weight = 100
+
+    [[related.indices]]
+        name = "date"
+        weight = 10
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+[[menu.footer]]
+  name = "About"
+  url = "/about"
+
+[[menu.footer]]
+  name = "Privacy"
+  url = "/privacy"
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
