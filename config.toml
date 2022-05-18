@@ -1,4 +1,4 @@
-baseURL = 'https://unmad.help'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Chaitanya.Rocks'
 theme = 'chaitanyarocks'
