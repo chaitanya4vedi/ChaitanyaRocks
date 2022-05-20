@@ -2,7 +2,7 @@
 title: "Welcome onboard!"
 author: "Chaitanya Chaturvedi"
 date: 2022-04-26T18:37:06+05:30
-draft: true
+draft: false
 related:
   threshold: 80
   includeNewer: true

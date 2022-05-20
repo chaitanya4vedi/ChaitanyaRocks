@@ -2,7 +2,7 @@
 title: "I Am.."
 subtitle: "A Short Bio"
 date: 2022-05-12T11:10:01+05:30
-draft: true
+draft: false
 author:
 images:
 - /wo-am-i.jpg
