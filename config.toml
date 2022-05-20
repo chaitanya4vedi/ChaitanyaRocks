@@ -2,7 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Chaitanya.Rocks'
 theme = 'chaitanyarocks'
-disqusShortname = 'bluedove-1'
+disqusShortname = 'chaitanyarocks'
 rssLimit = 20
 copyright = "2022 BlueDove All rights reserved"
 [params]
