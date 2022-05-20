@@ -2,7 +2,7 @@
 title: "United We Stand, Divided We Fall"
 subtitle: "A Poem"
 date: 2022-05-11T18:14:11+05:30
-draft: true
+draft: false
 author: Chaitanya Chaturvedi
 images:
 - /unity.jpg
