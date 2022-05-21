@@ -41,8 +41,6 @@ Though I am not an avid traveler, I do love going to new places. I have been to 
 
 I don't remember what I thought of becoming when I was a kid. But as I grew up I still didn't know what I wanted to become. Sometimes I think of devoting my life to the service of people. I really feel the urge to make people's life better by making them aware and helping them achieve more. I am not really sure of what I will become, I want to know where my destiny takes me. 
 
-Hello, i am Chaitanya and
+Hello, i am Chaitanya and (continued...)
 
-
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2hhFpD32iXUd4GaCu6T4wn?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{{< audio src="/Everyday-Normal-Guy-2.mp3" >}}

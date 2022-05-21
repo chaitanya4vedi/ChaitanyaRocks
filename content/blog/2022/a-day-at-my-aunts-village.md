@@ -31,5 +31,10 @@ After i finished my daily routine. I saw neighbors and my family members having 
 
 At around 10 in the morning, my aunt served us hot Paratha with Aloo bhujia, mint chutney and mango pickle. It was a delight to my tongue. Moreover, having lunch below the open sky at such a place just made the joy even more enriching.
 
+I walked down the village with my cousins, I made some new friends who were really funny, we played cricket and we drank some sattu and we came home by the evening.
+
+It was a wonderful experience.
+Villages are great examples of a good bond between nature and humans. And a day at the village is the closest to an amazing day between mother nature for me.
+
 
 
