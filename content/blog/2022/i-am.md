@@ -35,8 +35,6 @@ My first drawing was sold for Rs. 50. I then felt guilty for selling it and deci
 
 I have always been the monitor of my class. I have also been the school captain and got the opportunity to hold the school flag at the march past and no doubt i accidentally dropped the flag in the middle of parade.
 
-My life really went upside down when in 2018 I was diagnosed with an incurable illness. It really sucked out all of the joy and happiness from my life. I have never been the same after that.
-
 Though I am not an avid traveler, I do love going to new places. I have been to a few places around india. I wish to visit the USA and Europe someday. 
 
 I don't remember what I thought of becoming when I was a kid. But as I grew up I still didn't know what I wanted to become. Sometimes I think of devoting my life to the service of people. I really feel the urge to make people's life better by making them aware and helping them achieve more. I am not really sure of what I will become, I want to know where my destiny takes me. 
