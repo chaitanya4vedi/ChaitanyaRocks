@@ -15,7 +15,7 @@ buttons:
 map: Kolkata, India
 ---
 
-All the questions and queries regarding our website, content or anything related is welcomed. 
+We welcome all your questions or queries regarding our content or anything related.
 Use the contact button below to contact us.
 
 <a style="margin: 2rem 0rem ;" class="button is-warning" href="https://docs.google.com/forms/d/e/1FAIpQLSfA9D-bscpGu_2pAKBud4XOoUPPi_roGKpr4_hVsQoXAIsoLg/viewform">
