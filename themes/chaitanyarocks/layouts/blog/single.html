@@ -81,12 +81,12 @@
    <div class="blog__navigateButtons">
       <div class="blog__navigateButtons__previous">  
          {{ with .PrevInSection }}  
-         <button class="button btn has-background-warning"><a href="{{ .Permalink }}">&#8592; Previous Post: {{ .Title }}</a>   	           </button>  
+         <a class="button btn has-background-warning" href="{{ .Permalink }}">&#8592; Previous Post: {{ .Title }}</a>
          {{ end }}  
       </div>
       <div class="blog__navigateButtons__next">  
          {{ with .NextInSection }}  
-         <button class="button btn has-background-warning"><a href="{{ .Permalink }}">Next Post: {{ .Title }} &#8594;</a></button>  
+         <a class="button btn has-background-warning" href="{{ .Permalink }}">Next Post: {{ .Title }} &#8594;</a> 
          {{ end }}  
       </div>
    </div>

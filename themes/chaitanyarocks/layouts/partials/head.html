@@ -3,6 +3,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <title>{{ if not .IsHome }}{{ with .Title }}{{ . }} | {{ end }}{{ end }}{{ .Site.Title }}</title>
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }}">
+    <meta property="og:site_name" content="{{ $.Site.Title }}" />
+    <meta property="og:title" content="{{ $.Site.Title }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@chaitanya4vedi" />
+    <meta name="twitter:creator" content="@chaitanya4vedi" />
+    <meta name="twitter:image" content="https://chaitanya.rocks/static/thumbnail_twitter.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ end }}">
+    <meta name="theme-color" content="#d5d4d0">
+    <!-- Canonical URL-->
     <link rel="canonical" href="{{ .Permalink }}" />
     <link rel="icon" type="image/x-icon" href="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-rock-and-roll-rock-and-roll-justicon-lineal-color-justicon.png">
     <!-- Bulma CDN-->
@@ -11,13 +21,21 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- FontAwesome CDN-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent/3.1.1/cookieconsent.min.css" />         
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent/3.1.1/cookieconsent.min.css" />
     <!-- Custom CSS-->
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
+    <!-- JavaScript -->
     <script type="text/javascript" src="{{ "js/script.js" | relURL }}"></script>
+    <!-- SE Bots Crawl-->
+    {{ if eq (getenv "HUGO_ENV") "production" }}
+    <meta name="robots" content="index,follow">
+    {{ else }}
+    <meta name="robots" content="noindex,nofollow">
+    {{ end }}
     {{ template "_internal/opengraph.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
     {{ if not (in (string .Site.BaseURL) "localhost") }}
+    {{ template "_internal/google_analytics.html" . }}
     {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
-</head>
+ </head>
