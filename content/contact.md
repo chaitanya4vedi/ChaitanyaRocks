@@ -15,7 +15,6 @@ buttons:
 map: Kolkata, India
 ---
 
-<<<<<<< HEAD
 We welcome all your questions and queries regarding our website or anything related. 
 Use the contact button below to contact us.
 
