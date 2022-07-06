@@ -1,5 +1,5 @@
 ---
-title: "Welcome onboard!"
+title: "Welcome aboard!"
 author: "Chaitanya Chaturvedi"
 date: 2022-04-26T18:37:06+05:30
 draft: false
@@ -12,6 +12,14 @@ related:
     weight: 100
   - name: date
     weight: 10
+keywords:
+- Chaitanya
+- Chaitanya Chaturvedi
+- Personal Blog
+- Chaitanya Rocks
+- Digital Marketing
+- Software Engineer
+- Kolkata
 ---
 
 Hey! Thanks for stopping by. I have poems, essays, stories, articles, drawings and much more just for you. Check them out!
