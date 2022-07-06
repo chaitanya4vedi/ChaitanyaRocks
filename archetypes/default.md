@@ -17,5 +17,7 @@ related:
     weight: 100
   - name: date
     weight: 10
+keywords:
+-
 ---
 
