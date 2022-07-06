@@ -3,9 +3,11 @@ languageCode = 'en-us'
 title = 'Chaitanya.Rocks'
 theme = 'chaitanyarocks'
 disqusShortname = 'chaitanyarocks'
+enableRobotsTXT = true
+googleAnalytics = "G-B0XXN26QJ5"
 rssLimit = 20
 [params]
-    description = "A rocking blog that offers poem, stories, essays, articles, information and much more handcrafted with some real experinces. A personal blog of Chaitanya Chaturvedi."
+    description = "A rocking personal blog that offers poem, stories, essays, articles, information and much more handcrafted with some real experinces. A personal blog of Chaitanya Chaturvedi."
     author = "Chaitanya Chaturvedi"
 	email = "chaitanya4vedi@gmail.com"
     authorImage = "/images/Chaitanya_Chaturvedi_Cropped.jpg"
@@ -70,6 +72,6 @@ paginate = 1
   url = "/privacy"
 
 [sitemap]
-  changefreq = 'monthly'
+  changefreq = 'weekly'
   filename = 'sitemap.xml'
   priority = 0.5
