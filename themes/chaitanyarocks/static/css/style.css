@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Big+Shoulders+Text&family=Bungee+Inline&family=Bungee+Shade&family=Caveat&family=Faster+One&family=JetBrains+Mono&family=Just+Another+Hand&family=Karla&family=Lato&family=Playfair+Display&family=Qwitcher+Grypen&family=Rampart+One&family=Roboto&family=Sora:wght@400;500&family=Squada+One&family=Square+Peg&family=Staatliches&display=swap');
 
+html, body {
+  overflow-x: hidden;
+}
+
 .logo h1 {
     color: purple;
     font-family: 'Staatliches', cursive;
