@@ -5,13 +5,12 @@
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }}">
     <meta property="og:site_name" content="{{ $.Site.Title }}" />
     <meta property="og:title" content="{{ $.Site.Title }}" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@chaitanya4vedi" />
-    <meta name="twitter:creator" content="@chaitanya4vedi" />
-    <meta name="twitter:image" content="https://chaitanya.rocks/static/thumbnail_twitter.jpg">
-    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:type" content="blog" />
+    <meta property="og:url" content="https://chaitanya.rocks" />
+    <meta property="og:image" content="" />
+    <meta property="og:author" content="Chaitanya Chaturvedi" />
     <meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ end }}">
-    <meta name="theme-color" content="#d5d4d0">
+    <meta name="theme-color" content="white">
     <!-- Canonical URL-->
     <link rel="canonical" href="{{ .Permalink }}" />
     <link rel="icon" type="image/x-icon" href="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-rock-and-roll-rock-and-roll-justicon-lineal-color-justicon.png">

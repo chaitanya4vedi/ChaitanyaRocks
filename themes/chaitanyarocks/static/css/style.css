@@ -6,6 +6,9 @@ html, body {
 
 .logo h1 {
     font-weight: bolder;
+}
+
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Space Mono', monospace;
 }
 
@@ -92,8 +95,4 @@ main {
 
 .hero {
     background-image: linear-gradient(-225deg, #DFFFCD 0%, #90F9C4 48%, #39F3BB 100%);
-}
-
-footer {
-    background-image: url(../../../chaitanyarocks/static/images/footer.png);
 }
