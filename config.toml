@@ -4,7 +4,7 @@ title = 'Chaitanya'
 theme = 'chaitanyarocks'
 disqusShortname = 'chaitanyarocks'
 enableRobotsTXT = true
-googleAnalytics = "G-B0XXN26QJ5"
+googleAnalytics = "UA-252911981-2"
 rssLimit = 20
 [params]
     description = "A rocking personal blog that offers poem, stories, essays, articles, information and much more handcrafted with some real experinces. A personal blog of Chaitanya Chaturvedi."
@@ -52,7 +52,7 @@ paginate = 1
 
 [[menu.social]]
     name = "YouTube"
-    url = "https://youtube.com/chaitanya4vedi"
+    url = "https://youtube.com/@chaitanya4vedi?feature=shares"
     pre = "<i class='fab fa-youtube'></i>"
 
 [related]
