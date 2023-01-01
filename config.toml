@@ -45,6 +45,16 @@ paginate = 1
     url = "https://instagram.com/chaitanya4vedi"
     pre = "<i class='fab fa-instagram'></i>"
 
+[[menu.social]]
+    name = "Linkedin"
+    url = "https://linkedin.com/in/chaitanya4vedi"
+    pre = "<i class='fab fa-linkedin'></i>"
+
+[[menu.social]]
+    name = "YouTube"
+    url = "https://youtube.com/chaitanya4vedi"
+    pre = "<i class='fab fa-youtube'></i>"
+
 [related]
     threshold = 0 
     includeNewer = true

@@ -7,7 +7,7 @@ author:
 images:
 - /wo-am-i.jpg
 categories:
--
+- bio
 related:
   threshold: 80
   includeNewer: true
