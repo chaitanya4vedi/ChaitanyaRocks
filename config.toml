@@ -1,6 +1,6 @@
 baseURL = 'https://chaitanya.rocks'
 languageCode = 'en-us'
-title = 'Chaitanya.Rocks'
+title = 'Chaitanya'
 theme = 'chaitanyarocks'
 disqusShortname = 'chaitanyarocks'
 enableRobotsTXT = true

@@ -1,5 +1,5 @@
 ---
-title: "Welcome aboard!"
+title: "Welcome!"
 author: "Chaitanya Chaturvedi"
 date: 2022-04-26T18:37:06+05:30
 draft: false
@@ -20,6 +20,9 @@ keywords:
 - Digital Marketing
 - Software Engineer
 - Kolkata
+- Hooghly
+- West Bengal
+- Serampore
 ---
 
 Hey! Thanks for stopping by. I have poems, essays, stories, articles, drawings and much more just for you. Check them out!
