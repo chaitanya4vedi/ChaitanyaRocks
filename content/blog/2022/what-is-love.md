@@ -2,7 +2,7 @@
 title: "What Is Love?"
 subtitle: "An Essay on Love"
 date: 2022-04-27T19:49:49+05:30
-draft: false
+draft: true
 author:
 images:
 - /love.jpg
