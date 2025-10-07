@@ -2,7 +2,7 @@
 title: "A Day at My Aunts Village"
 subtitle: "An Essay"
 date: 2022-05-11T14:18:28+05:30
-draft: false
+draft: true
 author:
 images:
 - /village.jpg
